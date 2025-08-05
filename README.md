@@ -4,7 +4,7 @@
 
 A modern, fully-featured, and customizable admin dashboard built with React, Material-UI, Nivo charts, and more. This project is designed for learning, rapid prototyping, and real-world admin panel use cases.
 
-- **Live-Demo:** []()
+- **Live-Demo:** [https://admin-panel-user-dashboard.netlify.app/](https://admin-panel-user-dashboard.netlify.app/)
 
 ---
 
