@@ -1,17 +1,17 @@
 # Admin Panel User/Employee Management Dashboard - React Frontend UI
 
-<img width="1420" height="729" alt="Screenshot 2025-08-05 at 02 20 11" src="https://github.com/user-attachments/assets/683ecb88-f092-4dac-9d0f-15f677caf62f" />
-<img width="1410" height="738" alt="Screenshot 2025-08-05 at 02 22 24" src="https://github.com/user-attachments/assets/972c4883-9351-4d6c-9937-d973c9972637" />
-<img width="1409" height="722" alt="Screenshot 2025-08-05 at 02 22 53" src="https://github.com/user-attachments/assets/9742e5e5-3255-4d7b-b240-bc70d0121045" />
-<img width="1410" height="727" alt="Screenshot 2025-08-05 at 02 23 10" src="https://github.com/user-attachments/assets/7c28d515-cc9e-47a4-a50c-09ee22a7f26e" />
-<img width="1412" height="730" alt="Screenshot 2025-08-05 at 02 23 24" src="https://github.com/user-attachments/assets/9f5b896b-4928-46f8-9007-d7f3a80b5900" />
-<img width="1425" height="725" alt="Screenshot 2025-08-05 at 02 23 39" src="https://github.com/user-attachments/assets/d9729cc3-2f96-44a0-bf2b-e512950eef3d" />
-<img width="1409" height="731" alt="Screenshot 2025-08-05 at 02 24 14" src="https://github.com/user-attachments/assets/9f7556e6-3814-44c8-8cbe-5df5af0549ce" />
-<img width="1403" height="723" alt="Screenshot 2025-08-05 at 02 24 36" src="https://github.com/user-attachments/assets/105b1e35-db8e-4ab1-8b6c-0ab81418eab5" />
-<img width="1397" height="723" alt="Screenshot 2025-08-05 at 02 24 56" src="https://github.com/user-attachments/assets/cf1dbb4d-eca5-4eed-9866-ce1fb6f7930e" />
-<img width="1397" height="722" alt="Screenshot 2025-08-05 at 02 25 10" src="https://github.com/user-attachments/assets/0b081ee8-f992-498c-9a3f-80c6e3df72fa" />
-<img width="1397" height="720" alt="Screenshot 2025-08-05 at 02 25 24" src="https://github.com/user-attachments/assets/afd638bf-ad41-43a4-9b41-9b81885ad747" />
-<img width="1406" height="722" alt="Screenshot 2025-08-05 at 02 25 48" src="https://github.com/user-attachments/assets/438916a2-0972-4144-87bf-a86f17df5132" />
+![Screenshot 2025-08-05 at 02 20 11](https://github.com/user-attachments/assets/683ecb88-f092-4dac-9d0f-15f677caf62f)
+![Screenshot 2025-08-05 at 02 22 24](https://github.com/user-attachments/assets/972c4883-9351-4d6c-9937-d973c9972637)
+![Screenshot 2025-08-05 at 02 22 53](https://github.com/user-attachments/assets/9742e5e5-3255-4d7b-b240-bc70d0121045)
+![Screenshot 2025-08-05 at 02 23 10](https://github.com/user-attachments/assets/7c28d515-cc9e-47a4-a50c-09ee22a7f26e)
+![Screenshot 2025-08-05 at 02 23 24](https://github.com/user-attachments/assets/9f5b896b-4928-46f8-9007-d7f3a80b5900)
+![Screenshot 2025-08-05 at 02 23 39](https://github.com/user-attachments/assets/d9729cc3-2f96-44a0-bf2b-e512950eef3d)
+![Screenshot 2025-08-05 at 02 24 14](https://github.com/user-attachments/assets/9f7556e6-3814-44c8-8cbe-5df5af0549ce)
+![Screenshot 2025-08-05 at 02 24 36](https://github.com/user-attachments/assets/105b1e35-db8e-4ab1-8b6c-0ab81418eab5)
+![Screenshot 2025-08-05 at 02 24 56](https://github.com/user-attachments/assets/cf1dbb4d-eca5-4eed-9866-ce1fb6f7930e)
+![Screenshot 2025-08-05 at 02 25 10](https://github.com/user-attachments/assets/0b081ee8-f992-498c-9a3f-80c6e3df72fa)
+![Screenshot 2025-08-05 at 02 25 24](https://github.com/user-attachments/assets/afd638bf-ad41-43a4-9b41-9b81885ad747)
+![Screenshot 2025-08-05 at 02 25 48](https://github.com/user-attachments/assets/438916a2-0972-4144-87bf-a86f17df5132)
 
 ---
 
