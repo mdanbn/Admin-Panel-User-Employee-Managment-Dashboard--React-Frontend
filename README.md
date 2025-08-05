@@ -42,7 +42,7 @@ A modern, fully-featured, and customizable admin dashboard built with React, Mat
 
 ## Project Overview
 
-This admin panel/dashboard provides a robust foundation for building data-driven applications. It features a responsive sidebar, topbar, multiple data visualization charts, data grids, forms, and more. The project demonstrates best practices in React, state management, theming, and component reuse.
+A modern, fully featured, customizable admin panel/dashboard provides a robust foundation for building data-driven applications built with React, Material-UI, Nivo, Pie, Line, geography charts. It features a responsive sidebar, topbar, multiple data visualization charts, data grids, forms, file export, calendar, user/employee management, and more. The project demonstrates best practices in React, state management, theming, and component reuse.
 
 ---
 
